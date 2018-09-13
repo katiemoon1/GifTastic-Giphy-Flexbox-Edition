@@ -1,0 +1,30 @@
+body {
+    background-image: url("../images/leaves.png");
+    font-family: 'Chango', cursive;
+}
+
+.alert {
+    text-align: center;
+}
+.new-item {
+    text-align: center;
+}
+
+#button-holder {
+    text-align: center;
+}
+
+button {
+    margin: 5px;
+}
+
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
+    align-content: flex-start;
+}
+
+.gif {
+    float: left;
+    margin: 5px;
+}
